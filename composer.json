@@ -1,0 +1,14 @@
+{
+    "name": "wppb/wppb_admin_page",
+    "description": "Admin page for WordPress plugin using WPPB",
+    "authors": [
+        {
+            "name": "Devin Vinson",
+            "email": "devinvinson@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {"WppbAdminPage\\": "src/"}
+    },
+    "require": {}
+}
